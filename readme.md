@@ -1,3 +1,4 @@
+### Szenario: after trying some things on development branch reset thi sbranch to be like master
 #### get branches on current repo
 `git branch`
 
