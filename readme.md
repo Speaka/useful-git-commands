@@ -1,5 +1,5 @@
-# get branches on current repo
-`git brnach`
+### get branches on current repo
+`git branch`
 
-# get current branch
+### get current branch
 `git rev-parse --abbrev-ref HEAD`
