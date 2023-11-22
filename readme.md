@@ -9,5 +9,5 @@
 
 after this force push to get the remote like the local copy
 
-`git push`
+`git push -f`
 this list is continously expanded
