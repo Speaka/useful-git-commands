@@ -6,6 +6,8 @@
 
 ### reset development branch to master (or another)
 `git reset --hard master`
-afther this force push to get the remote like the local copy
+
+after this force push to get the remote like the local copy
+
 `git push`
 this list is continously expanded
