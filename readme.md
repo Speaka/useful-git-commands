@@ -1,8 +1,8 @@
-### Szenario: after trying some things on development branch reset thi sbranch to be like master
+### Scenario: after trying some things on development branch reset this branch to be like master
 #### get branches on current repo
 `git branch`
 
-#### get current branch
+#### get current branch to verify
 `git rev-parse --abbrev-ref HEAD`
 
 #### reset development branch to master (or another)
