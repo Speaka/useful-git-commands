@@ -1,6 +1,8 @@
 ### Creating a new branch:
 
-`git branch <new-branch>`
+```bash
+git branch <new-branch>
+```
 
 ### Scenario: after trying some things on development branch reset this branch to be like master
 #### get branches on current repo
