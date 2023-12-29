@@ -9,7 +9,7 @@ The new branch is now only on your local machine. After this you need to push th
 #### Push branch to remote 
 
 ```bash
-git push -u <remote> <branch-name>
+git push -u <remote> <new-branch>
 ```
 
 ### Scenario: after trying some things on development branch reset this branch to be like master
