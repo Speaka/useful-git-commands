@@ -2,6 +2,14 @@
 
 ```bash
 git branch <new-branch>
+
+```
+The new branch is now only on your local machine. After this you need to push the new branch to your remote.
+
+#### Push branch to remote 
+
+```bash
+git push -u <remote> <branch-name>
 ```
 
 ### Scenario: after trying some things on development branch reset this branch to be like master
